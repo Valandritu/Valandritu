@@ -4,7 +4,7 @@
 
 📧 Email Me: valandritu43@gmail.com  
 
-- 🎓 I’m currently studying Master of Science in Information Technology
+- 🎓 I recently completed my Master’s in Information Technology.
 - 🚀 Python Developer seeking Internships 
 - 💬 Ask me about Web Development  
 - ⚡ Fun fact: I love building real-world projects
